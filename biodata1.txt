@@ -1,6 +1,0 @@
-<html>
-<head>
-<title>Membuat Biodata Sederhana</title>
-</head>
-<body style="background-color:silver">
-<table border="1" style="width: 700px;">
